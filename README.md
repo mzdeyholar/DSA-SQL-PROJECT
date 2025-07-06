@@ -142,3 +142,11 @@ AVG(DATEDIFF(day, [Order_Date], [Ship_Date])) AS AvgShipDays
 FROM [dbo].[KMS Sql Case Study]
 GROUP BY [Order_Priority], [Ship_Mode]
 ORDER BY [Order_Priority], [Ship_Mode] DESC;
+
+
+
+
+![IMG-20250706-WA0001](https://github.com/user-attachments/assets/ff8011f3-a998-4116-a588-c8ab3d8fbb24)
+
+
+
