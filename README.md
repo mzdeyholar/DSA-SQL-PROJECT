@@ -315,8 +315,17 @@ Allow customers to choose speed vs. cost
 
   ###### DATA ANALYSIS
   create database
+
+
+  
   use database
+
+
+  
   create sale table
+
+
+  
   alter sale table
 
   
@@ -360,3 +369,4 @@ ADD COLUMN ship_date DATE;
 ``` select * from [dbo].[KMS Sql Case Study]
 
 
+1. Which product category had the highest sales?
