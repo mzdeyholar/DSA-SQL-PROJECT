@@ -329,6 +329,30 @@ Allow customers to choose speed vs. cost
   alter sale table
 
   
+
+
+1. Which product category had the highest sales?
+
+
+![IMG-20250706-WA0005](https://github.com/user-attachments/assets/5baaf6aa-35d1-4b8e-9a86-2df05b28cb37)
+
+
+
+  2a. What are the Top 3 in terms of sales
+  
+  
+  ![IMG-20250706-WA0006](https://github.com/user-attachments/assets/23414816-0694-488e-8290-ca89e1e3f9b9)
+
+  
+  
+  2b. what are the Bottom 3 regions in terms of sales?
+
+
+
+
+  
+
+  
   ```Step 1: Create the database
 CREATE DATABASE KMS_database;
 
