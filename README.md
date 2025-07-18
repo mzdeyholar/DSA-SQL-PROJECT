@@ -349,8 +349,70 @@ Allow customers to choose speed vs. cost
 
 
 
+![IMG-20250706-WA0007](https://github.com/user-attachments/assets/0270e655-78d0-4a1f-99fd-1c7c4f808a2b)
 
   
+
+
+
+3. What were the total sales of appliances in Ontario?
+
+![IMG-20250706-WA0008](https://github.com/user-attachments/assets/03a27f15-4cf9-445d-8d1b-ec650d4cb856)
+
+
+4. Advise the management of KMS on what to do to increase the revenue from the bottom 
+10 customers
+
+
+![IMG-20250706-WA0009](https://github.com/user-attachments/assets/38f82705-f023-4d87-9991-d117877e8629)
+
+
+5.KMS incurred the most shipping cost using which shipping method?
+
+
+![IMG-20250706-WA0010](https://github.com/user-attachments/assets/2bd05505-b87e-4390-aaf0-f61e4dbca40f)
+
+
+6. Who are the most valuable customers, and what products or services do they typically 
+purchase? 
+
+
+![IMG-20250706-WA0011](https://github.com/user-attachments/assets/2337e2e3-d699-4ea2-bceb-1c4b36fa3063)
+
+
+7. Which small business customer had the highest sales?
+
+![IMG-20250706-WA0012](https://github.com/user-attachments/assets/d28853f1-080d-47fd-8f81-06806760c38a)
+
+
+8. Which Corporate Customer placed the most number of orders in 2009 – 2012?
+
+
+   ![IMG-20250706-WA0013](https://github.com/user-attachments/assets/eb569f6d-a1c6-4fc5-b63b-a17d1686d79e)
+
+
+ 9. Which consumer customer was the most profitable one?
+  
+
+  ![IMG-20250706-WA0014](https://github.com/user-attachments/assets/5b465186-da0e-43f1-b007-46c90648fcc1)
+
+
+
+10. Which customer returned items, and what segment do they belong to?
+
+
+![IMG-20250706-WA0015](https://github.com/user-attachments/assets/936989e1-b0b6-445b-8d12-d0ba52359e47)
+
+
+
+11. If the delivery truck is the most economical but the slowest shipping method and 
+Express Air is the fastest but the most expensive one, do you think the company 
+appropriately spent shipping costs based on the Order Priority? Explain your answer 
+
+
+
+![IMG-20250706-WA0016](https://github.com/user-attachments/assets/76751e31-a7d5-4e90-b23b-d3262ad41fcd)
+
 
   
   ```Step 1: Create the database
